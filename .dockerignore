@@ -1,0 +1,4 @@
+mysql_data/
+ssl/
+__pycache__/
+*.pyc
